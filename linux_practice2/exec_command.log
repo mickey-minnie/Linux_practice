@@ -1,0 +1,256 @@
+    1  cd /home
+    2  ｌls
+    3  ls -a
+    4  ls
+    5  ls test1_copy
+    6  cat README.md
+    7  vi README.md
+    8  vi README.md
+    9  vi README.md
+   10  cd /root
+   11  mkdir server_lesson && cd server_lesson
+   12  mkdir server_lesson && cd server_lesson
+   13  ls
+   14  /root
+   15  cd home
+   16  ls
+   17  cd server_lesson
+   18  cd /server_lesson
+   19  mkdir server_lesson && cd server_lesson
+   20  yum update -y && yum -y install git
+   21  git version
+   22  git init
+   23  ls
+   24  ls -a
+   25  touch first.txt
+   26  mkdir linux_practice1
+   27  cd linux_practice1
+   28  mkdir public
+   29  ls
+   30  cd public
+   31  ls
+   32  touch index.php
+   33  ls
+   34  cp index.php index_bk.php
+   35  ls
+   36  cd /linux_practice1
+   37  cd /linux_practice1
+   38  ls
+   39  pwd
+   40  cd //linux_practice1
+   41  cd /linux_practice1
+   42  cd /home
+   43  ls
+   44  cd server_lesson
+   45  ls
+   46  cd linux_practice1
+   47  ls
+   48  cp -r public tmp
+   49  ls
+   50  cd tmp
+   51  ls
+   52  cd /home
+   53  ls
+   54  cd server_lesson
+   55  ls
+   56  cd linux_practice1
+   57  ls
+   58  cd tmp
+   59  ls
+   60  rm tmp/index_bk.php
+   61  rm index_bk.php
+   62  ls
+   63  cd /home
+   64  ls
+   65  cd server_lesson
+   66  ls
+   67  cd linux_practice1
+   68  ls
+   69  cd public
+   70  ls
+   71  cd /home
+   72  ls
+   73  cd server_lesson
+   74  ls
+   75  touch README.md
+   76  ls
+   77  vi README.md
+   78  vi README.md
+   79  ls
+   80  mkdir linux_practice2
+   81  ls
+   82  cd linux_practice2
+   83  mkdir documents
+   84  ls
+   85  cd documents
+   86  ls
+   87  ls
+   88  touch gizumo01.md
+   89  touch gizumo02.md
+   90  touch gizumo03.md
+   91  touch gizumo04.md
+   92  touch gizumo05.md
+   93  touch gizumo06.md
+   94  touch gizumo07.md
+   95  touch gizumo08.md
+   96  touch gizumo09.md
+   97  touch gizumo10.md
+   98  touch gizumo11.md
+   99  touch gizumo12.md
+  100  touch gizumo13.md
+  101  touch gizumo14.md
+  102  touch gizumo15.md
+  103  touch gizumo16.md
+  104  touch gizumo17.md
+  105  touch gizumo18.md
+  106  touch gizumo19.md
+  107  touch gizumo20.md
+  108  touch gizumo21.md
+  109  touch gizumo22.md
+  110  touch gizumo23.md
+  111  touch gizumo24.md
+  112  touch gizumo25.md
+  113  touch gizumo26.md
+  114  touch gizumo27.md
+  115  touch gizumo28.md
+  116  touch gizumo29.md
+  117  touch gizumo30.md
+  118  touch gizumo31.md
+  119  touch gizumo32.md
+  120  touch gizumo33.md
+  121  touch gizumo34.md
+  122  touch gizumo35.md
+  123  touch gizumo36.md
+  124  touch gizumo37.md
+  125  touch gizumo38.md
+  126  touch gizumo39.md
+  127  touch gizumo40.md
+  128  touch gizumo41.md
+  129  touch gizumo42.md
+  130  touch gizumo43.md
+  131  touch gizumo44.md
+  132  touch gizumo45.md
+  133  touch gizumo46.md
+  134  touch gizumo47.md
+  135  touch gizumo48.md
+  136  touch gizumo49.md
+  137  touch gizumo50.md
+  138  ls
+  139  cd /home
+  140  ls
+  141  cd server_lesson
+  142  ls
+  143  cd linux_practice2
+  144  ls
+  145  mkdir trash
+  146  ls
+  147  git status
+  148  git log
+  149  cd /home
+  150  ls
+  151  cd server_lesson
+  152  ls
+  153  git status
+  154  git add .
+  155  git status
+  156  git commit -m '練習問題1'
+  157  git remote add origin https://github.com/mickey-minnie/Linux_practice.git
+  158  git remote -v
+  159  git config --global user.email "hina.hina000ftr0z0@gmail.com"
+  160  git config --global user.name "mickey-minnie"
+  161  git commit -m '1stpractice+2ndpractice_1'
+  162  git log
+  163  ls
+  164  cd linux_practice2
+  165  ls
+  166  cd trash
+  167  cd /home
+  168  ls
+  169  cd server_lesson
+  170  ls
+  171  cd linux_practice2
+  172  ls
+  173  mv documents/gizumo2*.md trash
+  174  ls
+  175  cd trash
+  176  ls
+  177  cd /home
+  178  ls
+  179  cd server_lesson
+  180  ls
+  181  cd linux_practice2
+  182  ls
+  183  mv documents/gizumo3*.md trash
+  184  cd trash
+  185  ls
+  186  mv documents/gizumo40.md trash
+  187  cd /home
+  188  ls
+  189  cd server_lesson
+  190  ls
+  191  cd linux_practice2
+  192  ls
+  193  mv documents/gizumo40.md trash
+  194  ls
+  195  cd trash
+  196  ls
+  197  cd /home
+  198  ls
+  199  cd server_lesson
+  200  ls
+  201  cd linux_practice2
+  202  ls
+  203  touch .gitignore
+  204  ls
+  205  ls -a
+  206  ls
+  207  vi .gitignore
+  208  vi .gitignore
+  209  cd trash
+  210  ls
+  211  git status
+  212  vi .gitignore
+
+  213  vi .gitignore
+  214  ls
+  215  ls -a
+  216  cd /home
+  217  ls
+  218  cd server_lesson
+  219  ls
+  220  cd linux_practice2
+  221  ls
+  222  git status
+  223  ls
+  224  ls -a
+  225  vi .gitignore
+  226  vi .gitignore
+  227  git status
+  228  vi .gitignore
+  229  vi .gitignore
+  230  vi .gitignore
+  231  git status
+  232  vi .gitignore
+  233  vi .gitignore
+  234  git status
+  235  ls
+  236  cd trash
+  237  ls
+  238  cd ../
+  239  vi .gitignore
+  240  git status
+  241  add trash
+  242  git add trash
+  243  git status
+  244  code .
+  245  exit
+  246  ls
+  247  cd home
+  248  ls
+  249  cd server_lesson/
+  250  ls
+  251  cd linux_practice2
+  252  ls
+  253  git status
+  254  history 300
+
