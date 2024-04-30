@@ -1,0 +1,15 @@
+# command
+- ls
+- ls -a
+- pwd
+- cd
+- mkdir
+- touch
+- cp
+- cp -r
+- mv
+- rm
+- cat
+- echo >
+- echo >>
+- vi
