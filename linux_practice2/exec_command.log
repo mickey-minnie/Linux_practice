@@ -9,8 +9,7 @@
     9  vi README.md
    10  cd /root
    11  mkdir server_lesson && cd server_lesson
-   12  mkdir server_lesson && cd server_lesson
-   13  ls
+   12  mkdir server_lesson && cd server_lesso3  ls
    14  /root
    15  cd home
    16  ls
@@ -253,4 +252,46 @@
   252  ls
   253  git status
   254  history 300
-
+  255  touch exec_command.log
+  256  ls
+  257  vi exec_command.log
+  258  vi exec_command.log
+  259  vi exec_command.log
+  260  cd ../
+  261  ls
+  262  git status
+  263  git add .
+  264  git commit -m 'practice_2_4'
+  265  git status
+  266  git add .
+  267  git status
+  268  git add -A
+  269  git status
+  270  git commit -m 'practice_2_end'
+  271  git push origin master
+  272  git push origin master
+  273  exit
+  274  ls
+  275  cd home
+  276  ls
+  277  cd server_lesson
+  278  ls
+  279  cd linux_practice2
+  280  ls
+  281  ls -a
+  282  vi .gitignore
+  283  vi .gitignore
+  284  cd ../
+  285  ls
+  286  git status
+  287  git add .
+  288  git commit -m 'practice2_4_update'
+  289  git push origin master
+  290  ls
+  291  cd linux_practice2
+  292  ls
+  293  history 300
+  294  ls
+  295  vi exec_command.log
+  296  vi exec_command.log
+  297  history 300
